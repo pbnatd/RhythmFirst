@@ -60,5 +60,3 @@ python3 -m unittest discover -s tests -v
 4. После структуры — выбор инструментов и экспорт аккордов/плана партий.
 
 Архитектурные решения описаны в каталоге [`docs/adr`](docs/adr/README.md).
-
-Инструкция публикации проекта: [`docs/GITHUB_UPLOAD.md`](docs/GITHUB_UPLOAD.md).
